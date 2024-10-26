@@ -29,4 +29,4 @@ for _ in range(teste):
 #     # n <= (-1 +- \sqrt{1+8S_n})/2 # como quero numeros
 #     # positivos, entao calculo só a raiz positiva
 #     i = ( -1 + sqrt(1 + 8 * S_n)) /2
-#     print(floor(i))
+#     print(floor(i)) 
