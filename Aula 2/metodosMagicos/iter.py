@@ -1,0 +1,1 @@
+for item in [9, 1, 8, 2]: item

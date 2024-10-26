@@ -1,0 +1,1 @@
+len(['temos', 'quatro', 'itens', 'aqui'])
