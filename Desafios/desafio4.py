@@ -1,4 +1,4 @@
-#Uva 10055
+#Uva10055
 #Hashmat, o bravo guerreiro
 
 # Resolução:
