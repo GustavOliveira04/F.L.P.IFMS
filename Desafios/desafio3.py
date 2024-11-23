@@ -1,4 +1,4 @@
-#Uva 11679
+#Uva11679
 #Sub-prime
 
 # Resolução:
