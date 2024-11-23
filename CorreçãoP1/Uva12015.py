@@ -16,4 +16,4 @@ for i in range(1, tc + 1):  # começa do 1, por
     print(f"Case #{i}:")
     for site in sites:
         if site[0] == top_relevance:
-            print(site [1])
+            print(site [1]) 

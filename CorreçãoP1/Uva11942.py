@@ -16,6 +16,6 @@ for i in range(tc):
     for j in range(9):  #testa ordem decrescente
         if int(lumberjacks[j]) < int(lumberjacks[j + 1]):
             desc = False
-            break
+            break 
 
     print("Ordered" if asc or desc else "Unordered")
