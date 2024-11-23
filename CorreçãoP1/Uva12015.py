@@ -3,7 +3,7 @@
 
 tc = int(input())
 for i in range(1, tc + 1):  # começa do 1, por
-    sites = []
+    sites = [] 
     top_relevance = 1
 
     for _ in range(10):     # lê os 10 sites do 

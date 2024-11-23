@@ -1,7 +1,7 @@
 # Exercício 1
 # Sequenciamento dos lenhadores
 
-tc = int(input())
+tc = int(input()) 
 print("Lumberjacks:")
 for i in range(tc):
     lumberjacks = input() .split()
