@@ -1,4 +1,4 @@
-#Uva 10324
+#Uva10324
 #Zeros e uns
 
  # Resolução:
