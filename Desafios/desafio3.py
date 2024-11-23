@@ -1,3 +1,8 @@
+#Uva 11679
+#Sub-prime
+
+# Resolução:
+
 while True:
     B, N = map(int, input().split())
     if B == 0 and N == 0:

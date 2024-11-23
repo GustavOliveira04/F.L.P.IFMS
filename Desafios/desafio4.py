@@ -1,3 +1,8 @@
+#Uva 10055
+#Hashmat, o bravo guerreiro
+
+# Resolução:
+
 from sys import stdin
 
 for line in stdin:

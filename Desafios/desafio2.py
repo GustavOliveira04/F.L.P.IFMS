@@ -1,3 +1,8 @@
+#Uva 11614
+#Guerreiros etruscos nunca jogam xadrez
+
+# Resolução:
+
 def quantas_filas(n):
     filas = 0
     guerreiros = 0

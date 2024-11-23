@@ -1,3 +1,6 @@
+#Uva12250
+#Detecção de Língua
+
 # Resolução:
 
 s = input()
