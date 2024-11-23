@@ -2,11 +2,11 @@
 # Google está com sorte
 
 tc = int(input())
-for i in range(1, tc + 1):  # começa do 1, por
+for i in range(1, tc + 1):
     sites = [] 
     top_relevance = 1
 
-    for _ in range(10):     # lê os 10 sites do 
+    for _ in range(10):
         site, relevance = input() .split()
         relevance = int(relevance)
         sites.append((relevance, site))
