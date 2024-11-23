@@ -1,4 +1,4 @@
-#Uva12250
+#Uva12250 
 #Detecção de Língua
 
 # Resolução:
