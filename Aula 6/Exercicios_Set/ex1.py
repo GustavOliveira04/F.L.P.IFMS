@@ -6,3 +6,4 @@ while numero not in numeros:
     numeros.add(numero)
     numero = int(input())
 print(sorted(list(numeros)))
+ 

@@ -15,4 +15,4 @@ for _ in range(m):
         if palavra in proibidas:
             permitido = False
             break
-    print("PERMITIDO" if permitido else "CENSURADO")
+    print("PERMITIDO" if permitido else "CENSURADO") 
