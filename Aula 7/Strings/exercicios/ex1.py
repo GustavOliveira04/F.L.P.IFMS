@@ -6,4 +6,4 @@ def inverter_string(string):
 entrada = input("Digite uma frase: ")
 resultado = inverter_string(entrada)
 
-print("String invertida:", resultado)
+print("String invertida:", resultado) 

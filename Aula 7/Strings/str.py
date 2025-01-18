@@ -11,4 +11,4 @@ string2 = 'abacaxi'
 # p2 = s [i: j]
 # p3 = s [j: k]
 # p4 = s [k: l]
-# p5 = s [l:]
+# p5 = s [l:] 
