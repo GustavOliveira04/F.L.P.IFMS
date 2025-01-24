@@ -11,4 +11,4 @@ for line in stdin:
     b = int(line[1])
     print(abs(a - b)) 
 
-    #abs mostra apenas a versão positiva do numero(versão ABSoluta).
+    #abs mostra apenas a versão positiva do numero(versão ABSoluta). 

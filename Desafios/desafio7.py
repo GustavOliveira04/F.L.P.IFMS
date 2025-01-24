@@ -15,7 +15,7 @@ def movimentos_para_balancear_pilhas(pilhas):
 def main():
     conjunto_num = 1
     while True:
-        n = int(input())  # Número de pilhas
+        n = int(input())  # Número de pilhas 
         if n == 0:
             break  # Se n for 0, termina a execução
         

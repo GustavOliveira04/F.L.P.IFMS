@@ -19,7 +19,7 @@ for _ in range(teste):
     n = int(input())
     resultado = quantas_filas(n)
     print(resultado)
-
+ 
 
 #correção
 # from match import floor, sqrt

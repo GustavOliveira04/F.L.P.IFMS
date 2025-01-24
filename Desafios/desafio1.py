@@ -14,4 +14,4 @@ while s != "#":
     elif s == "ZDRAVSTVUJTE": print(f"Case {i}: RUSSIAN")
     else: print(f"Case {i}: UNKNOWN")
     s = input()
-    i += 1
+    i += 1 

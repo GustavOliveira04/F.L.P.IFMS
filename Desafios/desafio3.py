@@ -17,4 +17,4 @@ while True:
     if saldo_suficiente:
         print("S")
     else:
-        print("N")
+        print("N") 
